@@ -12,7 +12,7 @@ Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataul
 
 **Kurssi alkaa pakollisella aloitusluennolla ma 26.10. klo 16 luokassa B222.**
 
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://docs.google.com/presentation/d/1lSq00AuxZ7qaubIeTwOcTDP6GGfad-zArQ7IX-w5AII/edit?usp=sharing">Aloitusluennon kalvot</a>**
+<!-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://docs.google.com/presentation/d/1lSq00AuxZ7qaubIeTwOcTDP6GGfad-zArQ7IX-w5AII/edit?usp=sharing">Aloitusluennon kalvot</a>** -->
 
 
 ## Kurssimateriaali
