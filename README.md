@@ -63,7 +63,6 @@ Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka v
 ## Ajankohtaista
 
 * Aloitusluento pidetään ma 26.10. klo 16-18 luokassa B222.
-* <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
 
 # Ohjaus
 
