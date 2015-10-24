@@ -4,7 +4,7 @@ Tietokantasovellus on tietojenkäsittelytieteen aineopintojen harjoitustyökurss
 
 Kurssin tarkoituksena on tuottaa toimiva, käytettävä, siististi koodattu ja hyvällä arkkitehtuurilla rakennettu web-sovellus, joka käyttää hyväkseen työssä suunniteltua tietokantaa.
 
-Harjoitustyön ohjausta varten opiskelijan pitää ilmoittautua ohjausryhmään. Ohjausryhmille on ilmoitettu ajat, jotka antavat suuntaviivoja siitä milloin (paja)ohjausta on saatavissa. Ohjaus on kuitenkin henkilökohtaista joko pajaohjausta tai henkilökohtaisessa erikseen sovitussa ohjauspalaverissa tapahtuvaa.  Erikseen sovitut ajat voivat olla ilmoitettujen ryhmäaikojen ulkopuolella.
+Kurssin ohjaus on pajamuotoista. Pajan ajankohdat ja luokat lyötyvät kurssisivun alareunasta. Henkilökohtaisia ohjaustapaamisia voidaan myös tarpeen mukaan järjestää muutama kurssin aikana, mutta vain todellisesta tarpeesta.
 
 Opiskelija voi ilmoittautua uutena opiskelijana kurssille vain yhteen kertaan. Kurssin keskeyttänyt opiskelija joutuu myöhemmin hakemaan suoritusmahdollisuutta ilmoittautumalla keskeyttäjien jonoon.
 
