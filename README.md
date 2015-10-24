@@ -48,13 +48,13 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **44** <br> 26.10-1.11 |  -  |  -  |  -  |  -  |  **PAJA***<br>klo.12-14  |  -  |  **Palautus 1** <br> klo. 23:59 |
-| **45** <br> 2.11-8.11 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA***<br>klo.12-14  |  -  |  **Palautus 2** <br> klo. 23:59 |
-| **46** <br> 9.11-15.11 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
-| **47** <br> 16.11-22.11 |  -  |**PAJA***<br>klo.16-18|  -  | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 4** <br> klo. 23:59 |
-| **48** <br> 23.11-29.11 |  -  | - | **PAJA***<br>klo.16-18 | - |  **PAJA**\*<br>klo.12-14  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
-| **49** <br> 30.12-6.12 |  -  |**PAJA**<br>klo.14-16<br>**DEMO**<br>klo.16-18 | - | - | **PAJA**<br>klo.12-14<br> **DEMO**<br>klo. 14-16  |  -  | - |
-| **50** <br> 7.12-13.12 |  -  | **PAJA***<br>klo.16-18 | - | **PAJA***<br>klo.13-15 | - | - | **Lopullinen palautus** <br> klo. 23:59 |
+| **44** <br> 26.10-1.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 1** <br> klo. 23:59 |
+| **45** <br> 2.11-8.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 2** <br> klo. 23:59 |
+| **46** <br> 9.11-15.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
+| **47** <br> 16.11-22.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
+| **48** <br> 23.11-29.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
+| **49** <br> 30.12-6.12 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  | **PAJA**<br>klo.12-14<br> **DEMO**<br>klo. 14-16  |  -  | - |
+| **50** <br> 7.12-13.12 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  | **Lopullinen palautus** <br> klo. 23:59 |
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
