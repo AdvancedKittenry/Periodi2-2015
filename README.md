@@ -54,15 +54,16 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | **47** <br> 16.11-22.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
 | **48** <br> 23.11-29.11 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
 | **49** <br> 30.12-6.12 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  |  -  |
-| **50** <br> 7.12-13.12 |  -  |  -  |  -  |**PAJA***<br>klo.14-16|  -  |  -  | **Lopullinen palautus** <br> klo. 23:59 |
+| **50** <br> 7.12-13.12 |  -  |  -  |**DEMO***<br>klo.16-18|**DEMO***<br>klo.14-16|  -  |  -  | **Lopullinen palautus** <br> klo. 23:59 |
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
-Ohjaus pidetään luokassa **BK107** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demon ajankohta on viikolla **49-50**, tarkempi aika päätetään myöhemmin.
+Ohjaus pidetään luokassa **BK107** ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demotilaisuuksia on kaksi, keskiviikkona 9.12. klo. 16-18, sekä torstaina 10.12. klo. 14-16.
 
 ## Ajankohtaista
 
 * Aloitusluento pidetään ma 26.10. klo 16-18 luokassa B222.
+* Demotilaisuuksien ajankohdat löytyvät ylhäältä.
 
 # Ohjaus
 
